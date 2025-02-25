@@ -1,4 +1,4 @@
-# lua
+# allez
 
 A forthcoming library of inclusive & accessible components.
 
